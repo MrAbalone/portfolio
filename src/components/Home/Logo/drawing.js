@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import anime from 'animejs'
 
-export default class RocketDrawing extends Component {
+export default class Drawing extends Component {
   animation() {
     anime({
       targets: '.st0, .st1',
