@@ -1,8 +1,8 @@
 import './index.scss'
 import { useEffect, useRef } from 'react'
 // import LogoS from '../../../assets/images/logo-s.png'
-import gsap from 'gsap-trial'
-import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
+// import gsap from 'gsap-trial'
+// import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
 import RocketDrawing from './drawing'
 // import Loader from 'react-loaders'
 
