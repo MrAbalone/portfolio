@@ -1,0 +1,28 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/portfolio-pic.jpg",
+      "title": "Portfolio 1",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/1/portfolio-pic.jpg",
+      "title": "Portfolio 2",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/1/portfolio-pic.jpg",
+      "title": "Portfolio 3 ",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "http://google.com"
+    },
+    {
+      "cover": "/portfolio/1/portfolio-pic.jpg",
+      "title": "Portfolio 4",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "http://google.com"
+    }
+  ]
+}
